@@ -5,3 +5,4 @@ To Add Remote -> git remote add <shortname for remote> https://github.com/your_u
 To view all remotes -> git remote -v<br />
 To remove remote -> git rm <shortname for remote><br />
 To setup upstream to push -> git push --set-upstream <shortname for remote> <branch_name><br />
+To Push without verify -> git push --no-verify<br />
